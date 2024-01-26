@@ -24,7 +24,8 @@ public class Calendar1_2 {
 	
 	public static void main(String args[]) {
         Calendar today = new GregorianCalendar(2024,0,1);
-		/*
+		
+        /*
         System.out.println("이 해의 년도 : "+today.get(Calendar.YEAR));
         System.out.println("월(0~11, 0:1월): " + (today.get(Calendar.MONTH)+1));
         System.out.println("이 해의 몇 째 주 : " + today.get(Calendar.WEEK_OF_YEAR));
