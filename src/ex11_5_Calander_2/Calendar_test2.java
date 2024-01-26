@@ -20,7 +20,7 @@ Calendar는 추상 클래스로 이렇게 사용할 수 없습니다.
 
 package ex11_5_Calander_2;
 import java.util.*;
-public class Calendar1_2 {
+public class Calendar_test2 {
 	
 	public static void main(String args[]) {
 		Scanner sc =new Scanner(System.in);
